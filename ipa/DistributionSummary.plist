@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>VnPostIDM.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>D754FBB9CC45B350B141A25863FDA76648FB60BB</string>
+				<key>dateExpires</key>
+				<string>2/8/23</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>69KV48267Q.vn.vietnampost.idm</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>69KV48267Q</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>69KV48267Q.vn.vietnampost.idm</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>VNPOST IDM.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>9d6e19d9-1e84-4e7e-b87a-7b978a59c674</string>
+				<key>name</key>
+				<string>VNPOST IDM</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>69KV48267Q</string>
+				<key>name</key>
+				<string>VIETNAM POST (Enterprise)</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
