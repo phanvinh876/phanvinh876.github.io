@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileBitcode</key>
+	<true/>
+	<key>destination</key>
+	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://github.com/phanvinh876/phanvinh876.github.io/tree/master/ipa_postidotp/PostidOTP.ipa</string>
+		<key>displayImageURL</key>
+		<string>https://github.com/phanvinh876/phanvinh876.github.io/tree/master/ipa_postidotp/57x57.png</string>
+		<key>fullSizeImageURL</key>
+		<string>https://github.com/phanvinh876/phanvinh876.github.io/tree/master/ipa_postidotp/512x512.png</string>
+	</dict>
+	<key>method</key>
+	<string>development</string>
+	<key>signingStyle</key>
+	<string>automatic</string>
+	<key>stripSwiftSymbols</key>
+	<true/>
+	<key>teamID</key>
+	<string>PBXWK9W3QP</string>
+	<key>thinning</key>
+	<string>&lt;none&gt;</string>
+</dict>
+</plist>
