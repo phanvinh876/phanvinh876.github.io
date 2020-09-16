@@ -13,9 +13,9 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>D754FBB9CC45B350B141A25863FDA76648FB60BB</string>
+				<string>A92B73124470FFA393C9FC310C4724EFCEB16007</string>
 				<key>dateExpires</key>
-				<string>2/8/23</string>
+				<string>9/4/23</string>
 				<key>type</key>
 				<string>iOS Distribution</string>
 			</dict>
@@ -37,9 +37,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>9d6e19d9-1e84-4e7e-b87a-7b978a59c674</string>
+				<string>d8c869f5-ccab-40b2-9887-69ae5c97ed07</string>
 				<key>name</key>
-				<string>VNPOST IDM</string>
+				<string>iOS Team Inhouse Provisioning Profile: vn.vietnampost.idm</string>
 			</dict>
 			<key>team</key>
 			<dict>
