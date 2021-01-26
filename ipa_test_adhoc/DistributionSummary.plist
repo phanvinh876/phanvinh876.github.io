@@ -13,23 +13,23 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>E1B3B3AE25E485E5CF287890DBFE813D80994F58</string>
+				<string>A44E216A611C5844866E1DF834F126868B1F60F5</string>
 				<key>dateExpires</key>
-				<string>26/11/2023</string>
+				<string>18/12/2021</string>
 				<key>type</key>
-				<string>iOS Distribution</string>
+				<string>Apple Distribution</string>
 			</dict>
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>69KV48267Q.vn.test.vnpost.idm</string>
+				<string>PBXWK9W3QP.vn.test.vnpost.idm1</string>
 				<key>com.apple.developer.team-identifier</key>
-				<string>69KV48267Q</string>
+				<string>PBXWK9W3QP</string>
 				<key>get-task-allow</key>
 				<false/>
 				<key>keychain-access-groups</key>
 				<array>
-					<string>69KV48267Q.vn.test.vnpost.idm</string>
+					<string>PBXWK9W3QP.vn.test.vnpost.idm1</string>
 				</array>
 			</dict>
 			<key>name</key>
@@ -37,16 +37,16 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>5a1c609e-4c15-4217-9b8b-c6cc06a72d08</string>
+				<string>4f0f8d39-2d2d-4522-a2d1-ae88d7afc8f0</string>
 				<key>name</key>
-				<string>iOS Team Ad Hoc Provisioning Profile: vn.test.vnpost.idm</string>
+				<string>iOS Team Ad Hoc Provisioning Profile: vn.test.vnpost.idm1</string>
 			</dict>
 			<key>team</key>
 			<dict>
 				<key>id</key>
-				<string>69KV48267Q</string>
+				<string>PBXWK9W3QP</string>
 				<key>name</key>
-				<string>VIETNAM POST (Enterprise)</string>
+				<string>DTT TECHNOLOGY JOINT STOCK COMPANY</string>
 			</dict>
 		</dict>
 	</array>
