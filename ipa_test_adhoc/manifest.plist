@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/phanvinh876/phanvinh876.github.io/tree/master/ipa_test_adhoc/VnPostIDM.ipa</string>
+					<string>https://github.com/phanvinh876/phanvinh876.github.io/tree/master/ipa_test_adhoc/DichVuCong.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,15 +29,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>vn.test.vnpost.idm1</string>
+				<string>vn.gov.moh.dichvucong</string>
 				<key>bundle-version</key>
-				<string>1.03</string>
+				<string>1.06</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>VNPOST IDM</string>
+				<string>Dịch Vụ Công</string>
 			</dict>
 		</dict>
 	</array>

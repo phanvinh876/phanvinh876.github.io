@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>VNPOST IDM.ipa</key>
+	<key>Dịch Vụ Công.ipa</key>
 	<array>
 		<dict>
 			<key>architectures</key>
@@ -22,24 +22,34 @@
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>PBXWK9W3QP.vn.test.vnpost.idm1</string>
+				<string>PBXWK9W3QP.vn.gov.moh.dichvucong</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.icloud-container-environment</key>
+				<string>Production</string>
+				<key>com.apple.developer.icloud-container-identifiers</key>
+				<array/>
+				<key>com.apple.developer.icloud-services</key>
+				<array>
+					<string>CloudDocuments</string>
+				</array>
 				<key>com.apple.developer.team-identifier</key>
 				<string>PBXWK9W3QP</string>
+				<key>com.apple.developer.ubiquity-container-identifiers</key>
+				<array/>
+				<key>com.apple.developer.ubiquity-kvstore-identifier</key>
+				<string>PBXWK9W3QP.vn.gov.moh.dichvucong</string>
 				<key>get-task-allow</key>
 				<false/>
-				<key>keychain-access-groups</key>
-				<array>
-					<string>PBXWK9W3QP.vn.test.vnpost.idm1</string>
-				</array>
 			</dict>
 			<key>name</key>
-			<string>VNPOST IDM.app</string>
+			<string>Dịch Vụ Công.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>4f0f8d39-2d2d-4522-a2d1-ae88d7afc8f0</string>
+				<string>0b67f082-5aeb-4c2e-8217-e4274fd7a62d</string>
 				<key>name</key>
-				<string>iOS Team Ad Hoc Provisioning Profile: vn.test.vnpost.idm1</string>
+				<string>iOS Team Ad Hoc Provisioning Profile: vn.gov.moh.dichvucong</string>
 			</dict>
 			<key>team</key>
 			<dict>

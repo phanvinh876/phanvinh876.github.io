@@ -6,10 +6,12 @@
 	<true/>
 	<key>destination</key>
 	<string>export</string>
+	<key>iCloudContainerEnvironment</key>
+	<string>Production</string>
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://github.com/phanvinh876/phanvinh876.github.io/tree/master/ipa_test_adhoc/VnPostIDM.ipa</string>
+		<string>https://github.com/phanvinh876/phanvinh876.github.io/tree/master/ipa_test_adhoc/DichVuCong.ipa</string>
 		<key>displayImageURL</key>
 		<string>https://github.com/phanvinh876/phanvinh876.github.io/tree/master/ipa_test_adhoc/57x57.png</string>
 		<key>fullSizeImageURL</key>
